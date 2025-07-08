@@ -31,3 +31,9 @@
 </body>
 </html>
 ```
+
+## OUTPUT:
+![alt text](image-1.png)
+
+## RESUT:
+A visually appealing event invitation using HTML elements and basic CSS styling for structure and layout was designed.
